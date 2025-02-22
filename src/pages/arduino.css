@@ -1,0 +1,32 @@
+.container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.connect-btn {
+    background: blue;
+    color: white;
+}
+
+.off-btn {
+    background: red;
+    color: white;
+}
+
+.on-btn {
+    background: green;
+    color: white;
+}
+
+#status {
+    font-size: 18px;
+    margin-top: 20px;
+}

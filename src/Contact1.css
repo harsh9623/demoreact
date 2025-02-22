@@ -1,0 +1,504 @@
+/* .Contactdiv1{
+    width:100%;
+    height:400px;
+    background-color:rgb(255, 255, 255);
+
+}
+h1{
+    text-align: center;
+    font-family: Monotype Corsiva;
+    font-size:50px;
+    margin-top:160px;
+}
+.Forminfo{
+    width:100%;
+    height:650px;
+    
+    border:1px solid black;
+}
+h3{
+    font-size:25px;
+
+}
+.Contacinfo{
+    top:8%;
+    height:550px;
+    position: relative;
+    left:2%;
+    background-color:rgb(44, 141, 44);
+    
+}
+.div4{
+    background-color:red;
+}
+table{
+    position: relative;
+    top:80px;
+    left:15px;
+}
+td{
+    padding:15px;
+    padding-top:25px;
+    font-size:18px;
+    color: white;
+    position: relative;
+    left:-10px;
+
+
+}
+.icons{
+    font-size:20px;
+    position: relative;
+    left:px;
+}
+.mainh3{
+        font-size:25px;
+        position: relative;
+        top:25px;
+        left: 30px;
+        color:white;
+}
+.p5{
+        font-size:15px;
+        position: relative;
+        top:20px;
+        left:31px;
+        color:white;
+}
+.inputbox{
+    height:500px;
+    position: relative;
+    left:48%;
+    bottom:70%;
+}
+.btn{
+    margin-top: 10%;
+    height:50px;
+    font-size:16px;
+    width:40%;
+    position: relative;
+    left:41%;
+    background-color: rgb(28, 107, 28);
+}
+#input1{
+    border-color: none;
+    width:80%;
+    border-width: 3px;
+    border-bottom-color: black;
+
+
+}
+#input2{
+    border-color: none;
+    width:80%;
+    border-width: 3px;
+    border-bottom-color: black;
+    position: relative;
+    right:20%;
+
+
+}
+#input3{
+    border-color: none;
+    width:81%;
+    border-width: 3px;
+    border-bottom-color: black;
+
+
+}
+
+.cafediv{
+    width:100%;
+    height: 650px;
+}
+h4{
+    position: relative;
+    font-size:40px;
+    font-family: Monotype Corsiva;
+    font-weight: bolder;
+    left:80%;
+    top:20%;
+}
+p{
+    font-size:18px;
+    position: relative;
+    left:7%;
+    top:28%;
+}
+h5{
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Monotype Corsiva;
+    font-weight: bolder;
+    font-size:42px ;
+    left:40%;
+    top:23%;
+}
+.imgdiv1{
+    width: 33vw;
+    height:73vh;
+    position: relative;
+    top:20%;
+    left:25%;
+   
+}
+.imgdiv2{
+    width: 33vw;
+    position: relative;
+    left:7%;
+   bottom:40%;
+}
+.mb3{
+    padding-top:10%;
+    font-size:13px;
+} */
+
+.Contactdiv1 {
+  width: 100%;
+  height: 400px;
+  background-color: blue;
+}
+#mainh1 {
+  text-align: center;
+  font-family: Monotype Corsiva;
+  font-size: 50px;
+  margin-top: 160px;
+}
+#mainh3 {
+  font-size: 25px;
+}
+
+#table {
+  margin-top: 15%;
+}
+
+/* form container code */
+
+#form-container {
+  max-width: 100%;
+}
+.Forminfo {
+  width: 95%;
+  height: 650px;
+  margin-left: 2%;
+  margin-top: 3%;
+  /* background-color:brown; */
+  border: 1px solid black;
+  display: flex;
+}
+
+.Contacinfo {
+  /* background-color: green; */
+  top: 3%;
+  height: 94%;
+  position: relative;
+  width: 35%;
+  margin-left: 2%;
+  padding-right: 1%;
+  background-color: rgb(44, 141, 44);
+}
+.inputbox {
+  /* background-color: green; */
+  float: left;
+  margin-top: 3%;
+  height: 550px;
+  width: 63%;
+  max-width: 100%;
+}
+
+.div4 {
+  background-color: red;
+}
+
+#form1 {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  display: grid;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+#input-row {
+  width: 100%;
+}
+.input-col {
+  width: 50%;
+  float: left;
+}
+#form-label {
+  float: left;
+  font-size: 1.1rem;
+}
+
+#input1 {
+  /* 
+    border-color: none;
+    width:40%;
+    border-width: 3px;
+    border-bottom-color: black;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    */
+  width: 95%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-width: 3px;
+  border-bottom-color: rgb(23, 23, 23);
+  margin-left: 0px;
+  margin-top: 1rem;
+}
+#tdata {
+  /* border: 1px solid black; */
+  padding: 15px;
+  padding-top: 25px;
+  font-size: 18px;
+  color: white !important;
+  position: relative;
+  left: -10px;
+}
+#feedback-row {
+  max-width: 100%;
+}
+#feedback-col {
+  max-width: 100%;
+}
+.feedback-input {
+  width: 100%;
+}
+#feedback-messege {
+  width: 100%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-width: 3px;
+  border-bottom-color: rgb(23, 23, 23);
+  margin-left: 0px;
+  margin-top: 1rem;
+  font-size: 1rem;
+  height: auto;
+}
+
+.form-button {
+  right: 0px;
+  width: 60%;
+  margin-left: 40%;
+  height: 3rem;
+  font-size: 1rem;
+  align-self: flex-end;
+  text-align: center;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: rgb(49, 182, 49);
+}
+
+.icons {
+  font-size: 20px;
+  position: relative;
+  /* left:px; */
+}
+#mainh3 {
+  font-size: 25px;
+  position: relative;
+  top: 25px;
+  left: 30px;
+  color: white;
+}
+#p2 {
+  font-size: 15px;
+  position: relative;
+  top: 20px;
+  left: 31px;
+  color: white;
+}
+
+/* .btn{
+    margin-top: 10%;
+    height:50px;
+    font-size:16px;
+    width:40%;
+    position: relative;
+    left:41%;
+    background-color: rgb(28, 107, 28);
+} */
+
+.cafediv {
+  max-width: 100%;
+  height: 650px;
+  /* background-color:orange; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+    .Forminfo {
+        width: 100%;
+        height: auto;
+        margin-left: 0%;
+        margin-top: 3%;
+        /* background-color:brown; */
+        border: 1px solid black;
+        display: flex;
+        float: left;
+    }
+    #form1 {
+        width: 100%;
+        position: relative;
+        display: grid;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .Contacinfo {
+        float: left;
+        height: auto;
+       width: 100%;
+        margin-top: 0px;
+    }
+    .input-col {
+        width: 100%;
+    }
+    #input-row{
+        width: 100%;
+        height: auto;
+        float: left;
+    }
+  
+  .inputbox {
+    width: 100%;
+    /* float: left; */
+    display: flex;
+    float: left;
+    height: auto;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* background-color: green; */
+    /* float: left; */
+    margin-top: 3%;
+    /* height: 550px; */
+    /* width: 63%; */
+    /* max-width: 100%; */
+  } 
+  .cafediv {
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    /* background-color:orange; */
+  }
+}
+
+.cafediv{
+    width: 100%;
+    height: auto;
+    margin-top: 3%;
+}
+#cafe-row{
+  width: 98%;
+  height: max-content;
+}
+
+#cafe-col-one {
+  width: 50%;
+  float: left;
+}
+  #cafe-col-two{
+    width: 50%;
+  float: left;
+  }
+
+ #Ch4 {
+    position: relative;
+    font-size:40px;
+    font-family: Monotype Corsiva;
+    font-weight: bolder;
+    /* left:80%; */
+    margin-top: 20%;
+    float: right;
+    padding-right: 8rem;
+    max-width: 100%;
+}
+
+#Ch5{
+    position: relative;
+    float: right;
+    margin-top: 50%;
+
+  margin-top: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Monotype Corsiva;
+    font-weight: bolder;
+    font-size:42px ;
+    max-width: 100%;
+    
+}
+#Para{
+  font-size:18px;
+  position: relative;
+  float: right;
+  /* left:7%; */
+  /* top:28%; */
+}
+
+#cafe-col-two{
+    max-width: 100%;
+}
+#imgdiv1{
+    max-width: 100%;
+}
+
+/*
+
+#Para{
+    font-size:18px;
+    position: relative;
+    left:7%;
+    top:28%;
+}
+
+#imgdiv1{
+    width: 30vw;
+    height:65vh;
+    position: relative;
+    top:20%;
+    left:25%;
+   
+}
+#imgdiv2{
+    width: 30vw;
+    height:65vh;
+    position: relative;
+    left:7%;
+   bottom:40%;
+}
+.mb3{
+    padding-top:10%;
+    font-size:13px;
+}        */
