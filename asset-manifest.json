@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/demoreact/static/css/main.a3364022.css",
-    "main.js": "/demoreact/static/js/main.8b18da91.js",
+    "main.js": "/demoreact/static/js/main.fd3d6f4f.js",
     "static/media/sitting-table-with-chairs-yellow-sofa-restaurant-with-panoramic-view_114579-1523.jpg": "/demoreact/static/media/sitting-table-with-chairs-yellow-sofa-restaurant-with-panoramic-view_114579-1523.a56993505e69ee90479f.jpg",
     "static/media/traditional-flamenco-cornthe-feria-de-abril-april-spain_357619-1932.jpg": "/demoreact/static/media/traditional-flamenco-cornthe-feria-de-abril-april-spain_357619-1932.132a6570e2fce58686c5.jpg",
     "index.html": "/demoreact/index.html",
     "main.a3364022.css.map": "/demoreact/static/css/main.a3364022.css.map",
-    "main.8b18da91.js.map": "/demoreact/static/js/main.8b18da91.js.map"
+    "main.fd3d6f4f.js.map": "/demoreact/static/js/main.fd3d6f4f.js.map"
   },
   "entrypoints": [
     "static/css/main.a3364022.css",
-    "static/js/main.8b18da91.js"
+    "static/js/main.fd3d6f4f.js"
   ]
 }
