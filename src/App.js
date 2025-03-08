@@ -5,8 +5,8 @@ import ArduinoControl from './pages/arduino';
 function App() {
   return (
     <div className="App">
-      <ArduinoControl/>
-      {/* <Contact1/> */}
+      {/* <ArduinoControl/> */}
+      <Contact1/>
     </div>
   );
 }
